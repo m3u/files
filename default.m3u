@@ -513,3 +513,127 @@ http://37.122.125.127:4022/udp/239.98.1.198:1234
 http://37.122.125.127:4022/udp/239.98.1.199:1234
 #EXTINF:0, Discovery
 http://37.122.125.127:4022/udp/239.98.1.200:1234
+#EXTINF:-1, Первый
+http://ts://hls.cn.ru/streaming/1kanal/16/tvrec/playlist.m3u8
+#EXTINF:-1,Россия 1
+http://ts://hls.cn.ru/streaming/rossija/16/tvrec/playlist.m3u8
+#EXTINF:-1, НТВ
+http://ts://hls.cn.ru/streaming/ntv/16/tvrec/playlist.m3u8
+#EXTINF:-1,ТНТ
+http://ts://hls.cn.ru/streaming/tnt/16/tvrec/playlist.m3u8
+#EXTINF:-1, СТС
+http://ts://hls.cn.ru/streaming/sts/16/tvrec/playlist.m3u8
+#EXTINF:-1, Пятый
+http://ts://hls.cn.ru/streaming/5kanal/16/tvrec/playlist.m3u8
+#EXTINF:-1, ОТС
+http://ts://hls.cn.ru/streaming/ots/16/tvrec/playlist.m3u8
+#EXTINF:-1, ТВ-3
+http://ts://hls.cn.ru/streaming/tv3/16/tvrec/playlist.m3u8
+#EXTINF:-1, Перец
+http://ts://hls.cn.ru/streaming/perec/16/tvrec/playlist.m3u8
+#EXTINF:-1, 49 КАНАЛ
+http://ts://hls.cn.ru/streaming/49kanal/16/tvrec/playlist.m3u8
+#EXTINF:-1, Россия К
+http://ts://hls.cn.ru/streaming/kultura/16/tvrec/playlist.m3u8
+#EXTINF:-1, Домашний
+http://ts://hls.cn.ru/streaming/domashny/16/tvrec/playlist.m3u8
+#EXTINF:-1, ТВЦ
+http://ts://hls.cn.ru/streaming/tvc/16/tvrec/playlist.m3u8
+#EXTINF:-1, Новое телевидение
+http://ts://hls.cn.ru/streaming/novoe_televidenie/318/tvrec/playlist.m3u8
+#EXTINF:-1, Nickelodeon
+http://ts://hls.cn.ru/streaming/nickelodeon/16/tvrec/playlist.m3u8
+#EXTINF:-1, Карусель
+http://ts://hls.cn.ru/streaming/karusel/16/tvrec/playlist.m3u8
+#EXTINF:-1, Мама
+http://ts://peers.tv/data/tv/mother.mp4
+#EXTINF:-1, Мультимания
+http://ts://hls.cn.ru/streaming/multimania/16/tvrec/playlist.m3u8
+#EXTINF:-1, Cartoon Network
+http://ts://hls.cn.ru/streaming/cartoonnetwork/16/tvrec/playlist.m3u8
+#EXTINF:-1, Улыбка Ребенка
+http://ts://euro.online.hls.cn.ru/streaming/smile/126/tvrec/playlist.m3u8
+#EXTINF:-1, Техно-24
+http://ts://peers.tv/data/tv/24techno.mp4
+#EXTINF:-1, 24 док
+http://ts://peers.tv/data/tv/24doc.mp4
+#EXTINF:-1, Первый образовательный
+http://ts://hls.cn.ru/streaming/1_obraz/16/tvrec/playlist.m3u8
+#EXTINF:-1, ТБН-Россия
+http://ts://hls.cn.ru/streaming/tbn/16/tvrec/playlist.m3u8
+#EXTINF:-1, CNL
+http://ts://live.cnl.tv:1935/cnl-eu/cnl-eu/playlist.m3u8
+#EXTINF:-1, Настоящее страшное ТВ
+http://ts://peers.tv/data/tv/nst.mp4
+#EXTINF:-1, TVXXI
+http://ts://hls.cn.ru/streaming/tv21/16/tvrec/playlist.m3u8
+#EXTINF:-1, ТВ-ТРЕЙЛЕР
+http://ts://hls.cn.ru/streaming/tvtrailer/16/tvrec/playlist.m3u8
+#EXTINF:-1, Парк развлечений
+http://ts://peers.tv/data/tv/ipark.mp4
+#EXTINF:-1, Кино плюс
+http://ts://hls.cn.ru/streaming/ntv_kino_plyus/16/tvrec/playlist.m3u8
+#EXTINF:-1, Россия 24
+http://ts://hls.cn.ru/streaming/vesti/16/tvrec/playlist.m3u8
+#EXTINF:-1, Lifenews
+http://ts://hls.cn.ru/streaming/lifenews/16/tvrec/playlist.m3u8
+#EXTINF:-1, РБК
+http://ts://hls.cn.ru/streaming/rbk/16/tvrec/playlist.m3u8
+#EXTINF:-1, Мир 24
+http://ts://hls.cn.ru/streaming/mir24/16/tvrec/playlist.m3u8
+#EXTINF:-1, EuroNews
+http://ts://hls.cn.ru/streaming/euronews/16/tvrec/playlist.m3u8
+#EXTINF:-1, CNN International
+http://ts://hls.cn.ru/streaming/cnn/16/tvrec/playlist.m3u8
+#EXTINF:-1, Russia Today
+http://ts://hls.cn.ru/streaming/russiatoday/16/tvrec/playlist.m3u8
+#EXTINF:-1, 2x2
+http://ts://hls.cn.ru/streaming/2x2tv/16/tvrec/playlist.m3u8
+#EXTINF:-1, Пятница
+http://ts://hls.cn.ru/streaming/friday/16/tvrec/playlist.m3u8
+#EXTINF:-1, Звезда
+http://ts://hls.cn.ru/streaming/zvezda/16/tvrec/playlist.m3u8
+#EXTINF:-1, Юмор ТВ
+http://ts://hls.cn.ru/streaming/yumor_tv/16/tvrec/playlist.m3u8
+#EXTINF:-1, Мужской
+http://ts://hls.cn.ru/streaming/muzhskoj/126/tvrec/playlist.m3u8
+#EXTINF:-1, Живи
+http://ts://hls.cn.ru/streaming/jv/16/tvrec/playlist.m3u8
+#EXTINF:-1, Успех
+http://ts://hls.cn.ru/streaming/uspex/16/tvrec/playlist.m3u8
+#EXTINF:-1, Загородная жизнь
+http://ts://hls.cn.ru/streaming/zagorod_zh/16/tvrec/playlist.m3u8
+#EXTINF:-1, GlobalStar TV
+http://ts://euro.online.hls.cn.ru/streaming/globalstartv/126/tvrec/playlist.m3u8
+#EXTINF:-1, HardLife TV
+http://ts://euro.online.hls.cn.ru/streaming/hardlife_tv/126/tvrec/playlist.m3u8
+#EXTINF:-1, Shopping Live
+http://ts://hls.cn.ru/streaming/shopping_live/16/tvrec/playlist.m3u8
+#EXTINF:-1, Баланс-ТВ
+http://ts://hls.cn.ru/streaming/balance/126/tvrec/playlist.m3u8
+#EXTINF:-1, СТРК
+http://ts://hls.cn.ru/streaming/strk/126/hd/playlist.m3u8
+#EXTINF:-1, TVMChannel
+http://ts://euro.online.hls.cn.ru/streaming/tvmchannel/126/tvrec/playlist.m3u8
+#EXTINF:-1, ЛДПР.ТВ
+http://ts://hls.cn.ru/streaming/ldpr_tv/16/tvrec/playlist.m3u8
+#EXTINF:-1, Music Box RU
+http://ts://hls.cn.ru/streaming/musboxru/16/tvrec/playlist.m3u8
+#EXTINF:-1, A-One
+http://ts://hls.cn.ru/streaming/aone/16/tvrec/playlist.m3u8
+#EXTINF:-1, Music Box TV
+http://ts://hls.cn.ru/streaming/musboxtv/16/tvrec/playlist.m3u8
+#EXTINF:-1, JuCeTV
+http://ts://hls.cn.ru/streaming/juce/16/tvrec/playlist.m3u8
+#EXTINF:-1, MTV.AM
+http://ts://94.125.187.18/hlsam/med/playlist.m3u8
+#EXTINF:-1, Россия 2
+http://ts://hls.cn.ru/streaming/sport/16/tvrec/playlist.m3u8
+#EXTINF:-1, Футбол
+http://ts://hls.cn.ru/streaming/futbol/16/tvrec/playlist.m3u8
+#EXTINF:-1, Боец
+http://ts://hls.cn.ru/streaming/boets/16/tvrec/playlist.m3u8
+#EXTINF:-1, Первый музыкальный HD
+http://ts://hls.cn.ru/streaming/firstmuz/16/hd/playlist.m3u8
+#EXTINF:-1, Первый Интернет канал HD
+http://ts://euro.online.hls.cn.ru/streaming/pik_hd/126/hd/playlist.m3u8
