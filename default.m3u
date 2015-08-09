@@ -333,12 +333,10 @@ http://95.221.125.56:5050/udp/233.49.170.213:5000
 http://95.221.125.56:5050/udp/233.49.170.250:5000
 #EXTINF:-1,Domashniy Magazin
 http://95.221.125.56:5050/udp/233.49.170.251:5000
-#EXTINF:-1,,Travel+Adventure HD
+#EXTINF:-1,Travel+Adventure HD
 http://95.221.125.56:5050/udp/233.49.170.125:5000
 #EXTINF:-1,Boomerang
 http://95.221.125.56:5050/udp/233.49.170.98:5000
-#EXTINF:-1,ProBusiness
-http://#EXTM3U
 #EXTINF:-1,Первый_канал
 http://95.221.125.56:5050/udp/233.49.170.10:5000
 #EXTINF:-1,Россия_1
